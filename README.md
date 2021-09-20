@@ -46,8 +46,7 @@
   <a href = "mailto:viniciuscarneiro007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/viniciusfcar/viniciusfcar/blob/output/github-contribution-grid-snake.svg)
-   
-   <img src="https://komarev.com/ghpvc/?username=viniciusfcar&color=green" alt="luis-luciqm" /> 
+![Snake animation](https://github.com/viniciusfcar/viniciusfcar/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://komarev.com/ghpvc/?username=viniciusfcar&color=green" alt="luis-luciqm" /> 
  
 </div>
