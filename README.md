@@ -7,7 +7,7 @@
 
 ## Projetos Publicados
 
-- 📱 [MinhaVez - App] (https://play.google.com/store/apps/details?id=com.minhavezapp)
-- 📱 [MinhaVez - Web] (https://minhavezsistema.com.br)
-- 📱 [ProducerPoint] (https://bit.ly/producerpointapp)
-- 📱 [MilkPoint] (https://bit.ly/milkpointapp)
+- 📱 :[MinhaVez - App] (https://play.google.com/store/apps/details?id=com.minhavezapp)
+- 📱 :[MinhaVez - Web] (https://minhavezsistema.com.br)
+- 📱 :[ProducerPoint] (https://bit.ly/producerpointapp)
+- 📱 :[MilkPoint] (https://bit.ly/milkpointapp)
