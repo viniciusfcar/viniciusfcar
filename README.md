@@ -1,6 +1,6 @@
 ##  Olá, eu sou Vinicius Carneiro!
 
-- 🎓  Graduando em Análise e Desenvolvimento de Sistema - IFRN;
+- 🎓  Graduado em Análise e Desenvolvimento de Sistema - IFRN;
 - 🖥️  Desenvolvedor Fullstack: Python e Django | Java e Spring;
 - 💻  Desenvolvedor Web: Reacj Js | Node Js;
 - 📱  Desenvolvedor Mobile: React Native;
